@@ -1,0 +1,5 @@
+name: backup
+version: '${project.version}'
+main: com.carpour.backup.Main
+load: STARTUP
+api-version: 1.13

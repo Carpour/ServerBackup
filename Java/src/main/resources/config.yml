@@ -1,0 +1,6 @@
+# Make sure to insert an OPEN port in the field bellow and NOT your server's port.
+server_open_port: 0000
+
+# The paths of the files / folder you want to backup.
+paths:
+  - "/plugins/LuckPerms"
