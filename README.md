@@ -61,6 +61,10 @@ This project includes a Java plugin for your Minecraft server, allowing seamless
 
 Adjust the plugin's settings by modifying the configuration file (`config.yml`) on your minecraft server.
 
+## Report a Bug
+
+If you find a bug, please report it to the issue tracker.
+
 ## Contributing
 
 Any Contributions are welcome!
