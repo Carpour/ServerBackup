@@ -1,5 +1,13 @@
 # Minecraft Server Backup System
 
+![Version](https://img.shields.io/github/v/release/Carpour/ServerBackup)
+![Downloads](https://img.shields.io/github/downloads/Carpour/ServerBackup/total)
+![Issues](https://img.shields.io/github/issues/Carpour/ServerBackup/issues)
+[![Discord](https://img.shields.io/discord/850407951629287424)](https://discord.gg/MfR5mcpVfX)
+[![Open Source](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://opensource.org/)
+[![Discord](https://img.shields.io/discord/850407951629287424?color=%235865F2&label=join%20our%20discord)](https://discord.gg/MfR5mcpVfX)
+[![](https://img.shields.io/github/license/Carpour/ServerBackup.svg)](https://github.com/ExceptedPrism3/Logger/blob/master/LICENSE "License")
+
 Backing a server has never been easier than now. Backup your server with 1 command line from your Discord server, rather than logging into the panel.
 
 ## Features
